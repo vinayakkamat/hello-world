@@ -1,2 +1,5 @@
 My first GIT file
 updated
+Additional details
+Few more
+hello, latest updates
